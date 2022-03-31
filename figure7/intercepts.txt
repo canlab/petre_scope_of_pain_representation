@@ -1,0 +1,1 @@
+All trained models have the same intercept. This value is 0.015812
